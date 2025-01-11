@@ -1,7 +1,7 @@
 SynthShield: Leveraging Synthetic Distributions to Enhance Privacy Against Membership Inference
 -----------------------------------------------------------------------------------------------
 
-This repository accompanies the paper "SynthShield: Leveraging Synthetic Distributions to Enhance Privacy Against Membership Inference" currently under review. It contains the main code used in applying and analysing the SynthShield technique analysed in the paper. Our code is based on [Membership Inference Attacks and Defenses in Neural Network Pruning](https://github.com/Machine-Learning-Security-Lab/mia_prune). Testing was done on Ubuntu 20.04.6 LTS with Python 3.10.9. 
+This repository accompanies the paper "SynthShield: Leveraging Synthetic Distributions to Enhance Privacy Against Membership Inference". It contains the main code used in applying and analysing the SynthShield technique analysed in the paper. Our code is based on [Membership Inference Attacks and Defenses in Neural Network Pruning](https://github.com/Machine-Learning-Security-Lab/mia_prune). Testing was done on Ubuntu 20.04.6 LTS with Python 3.10.9. 
 
 ![Our technique](assets/technique_image.png)
 
