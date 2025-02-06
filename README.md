@@ -14,7 +14,6 @@ The growing application of machine learning on Personally Identifiable Informati
 Clone the repo
 
 ```bash
-git clone https://github.com/lycogno/mia-synthshield
 cd mia-synthshield
 ```
 
